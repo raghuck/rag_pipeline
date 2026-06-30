@@ -1,0 +1,9 @@
+Subhanu Technologies & Solutions is an IT consulting and solutions firm based in Bengaluru, India, specializing in software development, infrastructure, security, and education services. The company is located at 50/7 Ground Floor, MSR Complex, Bengaluru-560041, and can be reached at info@subhanu.com or by phone at +91 95131 26915, +91 96207 13526, or +91 98451 75710.
+
+The company emphasizes ethical innovation and building collaborative work environments. Its guiding philosophy draws from the Arthashastra, which advises asking three questions before starting any work, reflecting Subhanu's deliberate, values-driven approach to decision-making.
+
+Subhanu offers a range of service lines. Its Software Solutions practice covers IT consulting, project development, and offshore development center (ODC) services. Its DevOps & Infrastructure practice provides automation, CI/CD pipelines, and cloud solutions. Its Cybersecurity practice covers security assessments, threat detection, and compliance support. The company also runs Talent Solutions, focused on recruitment and training, and offers STEM-focused educational products.
+
+Education is a major part of Subhanu's business through its academies. KiddyPi is an academy aimed at children, while RAPIDD Academy serves working professionals. Courses offered include Python Fundamentals and Build AI Agents.
+
+Subhanu fosters a collaborative and agile work environment where employees are encouraged to share ideas while upholding strong ethical values. Interns and trainees have praised the company for its supportive environment, skilled mentors, and excellent trainers, with notable feedback highlighting hands-on opportunities in embedded systems and machine learning instruction.
